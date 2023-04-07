@@ -498,10 +498,6 @@ img {
   width: 106px;
   height: 60px;
 }
-.icon-client:focus,
-.icon-client:hover{
-  fill: var(--color-blue);
-}
 .footer{
   text-decoration: none; 
   background-color: var(--color-third-background);
