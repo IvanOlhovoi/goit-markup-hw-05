@@ -487,14 +487,7 @@ img {
   fill: var(--color-blue);
   border-color: var(--color-blue);
 }
-.client-link:hover .icon-client,
-.client-link:focus .icon-client{
-  fill: var(--color-blue);
-  border-color: var(--color-blue);
-}
 .icon-client {
-  color: var(--color-social-network);
-  fill: var(--color-social-network);
   width: 106px;
   height: 60px;
 }
